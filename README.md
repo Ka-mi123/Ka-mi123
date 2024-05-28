@@ -12,6 +12,7 @@ comigo 📫
 alurastartestudante@email.com
 @alurastartestudante
 
+![](https://search.app.goo.gl/RkVZhiz)
 
 <!--
 **Ka-mi123/Ka-mi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
