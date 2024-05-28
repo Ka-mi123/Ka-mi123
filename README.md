@@ -6,12 +6,12 @@ Meu nome é Kamilly
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
-Você pode entrar em contato comigo 📫
-alurastartestudante@email.com
+Você pode entrar em contato 
 
+comigo 📫
+alurastartestudante@email.com
 @alurastartestudante
 
-![](https://search.app.goo.gl/RkVZhiz)
 
 <!--
 **Ka-mi123/Ka-mi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
